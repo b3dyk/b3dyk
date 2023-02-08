@@ -23,4 +23,4 @@ Hello! I'm passionate Junior FrontEnd Developer with huge desire to grow. Lookin
 ### 📊 Stats
 
 
-[![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3dyk&show_icons=true&theme=vue-dark)](https://github.com/b3dyk/github-readme-stats)
+[![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3dyk&show_icons=true&theme=aura_dark)]
