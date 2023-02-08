@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! I'm passionate Junior FrontEnd Developer with huge desire to grow. Looking for a job and willing to mounting my knowledge as a developer. I'm really excited with coding and strongly believe that hobby is the best job. With the skills that I gained working as an Air Traffic Controller I can help any company or start up to perform a leapfrog improvement in making their product. Working in team, coping with stressful situations and decisionmaking combined with knowledge in JavaScript, React and HTML/CSS is a good IT emloyee material.
 
 ### 🧰 Languages and Tools
 
