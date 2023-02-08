@@ -15,3 +15,8 @@ Hello! I'm passionate Junior FrontEnd Developer with huge desire to grow. Lookin
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <br />
+
+### 📊 Stats
+
+
+[![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3dyk)](https://github.com/b3dyk/github-readme-stats)
