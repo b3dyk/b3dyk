@@ -20,6 +20,8 @@ Hello! I'm passionate Junior FrontEnd Developer with huge desire to grow. Lookin
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Webpack" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" />
+<img align="left" alt="npm" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" />
 <!-- <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <br />
 <br>
